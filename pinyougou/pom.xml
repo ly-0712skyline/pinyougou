@@ -61,7 +61,7 @@
         <fastdfs.client.version>1.25</fastdfs.client.version>
         <elasticsearch.version>6.4.3</elasticsearch.version>
         <freemarker.version>2.3.23</freemarker.version>
-        <activemq.version>5.14.3</activemq.version>
+        <activemq.version>5.15.9</activemq.version>
         <javax.jms.version>2.0.1</javax.jms.version>
         <cas.client.core.version>3.4.1</cas.client.core.version>
         <httpclient.version>4.5.3</httpclient.version>
